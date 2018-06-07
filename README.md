@@ -8,7 +8,7 @@ Repositório com o material utilizado no Workshop do QA Sampa Meeting
 - Instalar [node.js](https://nodejs.org/en/download/package-manager/)
 
 - Seguir o README dentro das pastas
- - ng-pokedex
- - applitools
- - backstop-js
- - visual-review
+   - ng-pokedex
+   - applitools
+   - backstop-js
+   - visual-review
