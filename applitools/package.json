@@ -1,0 +1,27 @@
+{
+  "name": "visual.regression.qa.sampa.applitools.protractor",
+  "version": "0.0.1",
+  "description": "A Visual Regression Talk example with applitools and protractor",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samycici/qa-sampa-visual-regression.git"
+  },
+  "keywords": [
+    "Applitools",
+    "Protractor",
+    "QA Sampa Meeting"
+  ],
+  "author": "Samanta Souza",
+  "license": "Apache license",
+  "bugs": {
+    "url": "https://github.com/samycici/qa-sampa-visual-regression/issues"
+  },
+  "homepage": "https://github.com/samycici/qa-sampa-visual-regression",
+  "dependencies": {
+    "eyes.protractor": "0.0.57"
+  }
+}
