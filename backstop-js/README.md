@@ -12,6 +12,17 @@ Exemplo de como fazer testes de Visual Regression na ng-pokedex usando BackstopJ
 npm install -g backstopjs
 ```
 
-### Executando
+### Run
 
-Veremos no Workshop :)
+Now execute tests by running:
+
+```shell
+backstop test
+```
+### Approve
+
+To approve new screens by running:
+
+```shell
+backstop approve
+```
