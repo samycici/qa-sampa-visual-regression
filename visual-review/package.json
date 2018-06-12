@@ -2,9 +2,9 @@
   "name": "visual.regression.qasampa",
   "version": "0.0.1",
   "description": "A Visual Regression Talk example with visual review and protractor",
-  "main": "",
+  "main": "pokedex_visual_test.js",
   "scripts": {
-    "test": ""
+    "test": "protractor conf.js"
   },
   "repository": {
     "type": "git",

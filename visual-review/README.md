@@ -23,6 +23,8 @@ Iniciar o [VisualReview server](https://github.com/xebia/VisualReview)fazendo o 
 
 ### Executando
 
-Veremos no Workshop :)
+```shell
+npm test
+```
 
 Abra o VisualReview web app ([http://localhost:7000](http://localhost:7000)) para ver se está funcionando.
