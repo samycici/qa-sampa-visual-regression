@@ -2,9 +2,9 @@
   "name": "visual.regression.qa.sampa.applitools.protractor",
   "version": "0.0.1",
   "description": "A Visual Regression Talk example with applitools and protractor",
-  "main": "",
+  "main": "test.js",
   "scripts": {
-    "test": ""
+    "test": "protractor conf.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/samycici/qa-sampa-visual-regression",
   "dependencies": {
-    "eyes.protractor": "0.0.57"
+    "eyes.selenium": "0.0.80",
+    "selenium-webdriver":"3.6.0"
   }
 }

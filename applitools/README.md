@@ -16,5 +16,6 @@ npm install
 ```
 
 ### Executando
-
-Veremos no Workshop :)
+```shell
+npm test
+```
